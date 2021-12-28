@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aanacif/nft-preview-card](https://github.com/aanacif/nft-preview-card)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-card-9qOl6CZRK](https://www.frontendmentor.io/solutions/nft-card-9qOl6CZRK)
 - Live Site URL: [https://aanacif.github.io/nft-preview-card/](https://aanacif.github.io/nft-preview-card/)
 
 ## My process
