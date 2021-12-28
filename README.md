@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aanacif/faqAccordionCard](https://github.com/aanacif/faqAccordionCard)
-- Live Site URL: [https://aanacif.github.io/faqAccordionCard/](https://aanacif.github.io/faqAccordionCard/)
+- Solution URL: [https://github.com/aanacif/nft-preview-card](https://github.com/aanacif/nft-preview-card)
+- Live Site URL: [https://aanacif.github.io/nft-preview-card/](https://aanacif.github.io/nft-preview-card/)
 
 ## My process
 
